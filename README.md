@@ -1,2 +1,3 @@
-# catch-me-if-you-can
-Catch me if you can (kaggle competition)
+##  Catch me if you can (kaggle competition)
+
+Первая попытка выйти на kaggle
